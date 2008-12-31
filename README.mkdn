@@ -2,6 +2,11 @@
 
 A plugin that use gist URL to show a formated code.
 
+## Install
+
+to instal run:
+
+	script/plugin install git://github.com/marciotrindade/filtered_column_gist_macro.git
 
 ## Usage
 
