@@ -8,6 +8,10 @@ to instal run:
 
 	script/plugin install git://github.com/marciotrindade/filtered_column_gist_macro.git
 
+after you need copy `vendor/plugins/filtered_column_gist_macro/public/stylesheets/gist.css` to your theme folder. example if you use simpla:
+
+	cp vendor/plugins/filtered_column_gist_macro/public/stylesheets/gist.css themes/site-1/simpla/stylesheets/
+
 ## Usage
 
 Then in your posts do:
